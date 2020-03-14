@@ -6,4 +6,5 @@ The dataset consists of several medical predictor variables and one Target Varia
 
 This project aims at comparing different Machine Learning Classification algorithms, namely Naive Bayes, Random Forest and Logistic Regression based on their accuracy in classifying diffrent data points. 
 
-It was found that Random Forest was the best classifier. 
+It was found that Random Forest was the best classifier among the three. 
+
